@@ -123,7 +123,7 @@
 1. **Clone the Repository:**
 
    ```
-   git clone <repository-url>
+   git clone https://github.com/aamirfarookh/Task-Managent-App.git
    ```
 
 2. **Install Dependencies:**
